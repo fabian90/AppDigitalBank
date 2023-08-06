@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/UsuarioService/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" />
+  <xs:import schemaLocation="http://localhost:8733/UsuarioService/?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common.Enum" />
+  <xs:complexType name="BusinessResultadoOfArrayOfUsuarioDtoCOpr4HTC">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="BusinessResultadoOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="ArrayOfUsuarioDto" Namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Exception" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" minOccurs="0" name="Result" nillable="true" type="q1:ArrayOfUsuarioDto" />
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common.Enum" minOccurs="0" name="ResultadoOperacion" type="q2:ResultadoOperacion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BusinessResultadoOfArrayOfUsuarioDtoCOpr4HTC" nillable="true" type="tns:BusinessResultadoOfArrayOfUsuarioDtoCOpr4HTC" />
+  <xs:complexType name="BusinessResultadoOfUsuarioDtoCOpr4HTC">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="BusinessResultadoOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="UsuarioDto" Namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Exception" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" minOccurs="0" name="Result" nillable="true" type="q3:UsuarioDto" />
+      <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common.Enum" minOccurs="0" name="ResultadoOperacion" type="q4:ResultadoOperacion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BusinessResultadoOfUsuarioDtoCOpr4HTC" nillable="true" type="tns:BusinessResultadoOfUsuarioDtoCOpr4HTC" />
+  <xs:complexType name="BusinessResultadoOfint">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="BusinessResultadoOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="int" Namespace="http://www.w3.org/2001/XMLSchema" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Exception" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsSuccess" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Result" type="xs:int" />
+      <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common.Enum" minOccurs="0" name="ResultadoOperacion" type="q5:ResultadoOperacion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BusinessResultadoOfint" nillable="true" type="tns:BusinessResultadoOfint" />
+</xs:schema>

@@ -1,0 +1,12 @@
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\bin\Debug\net6.0\monitoreo.Commons.deps.json
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\bin\Debug\net6.0\monitoreo.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\bin\Debug\net6.0\monitoreo.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.csproj.AssemblyReference.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.AssemblyInfoInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.AssemblyInfo.cs
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\refint\monitoreo.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\monitoreo.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreo.Commons\obj\Debug\net6.0\ref\monitoreo.Commons.dll

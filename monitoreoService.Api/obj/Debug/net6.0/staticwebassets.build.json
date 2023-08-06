@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HMxjhCCq8V86KvK2R7SlyF/rHk68muei+63O+j+ro+g=",
+  "Source": "monitoreoService.Api",
+  "BasePath": "_content/monitoreoService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

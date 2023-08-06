@@ -1,0 +1,15 @@
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\bin\Debug\net6.0\monitoreoService.Core.deps.json
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\bin\Debug\net6.0\monitoreoService.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\bin\Debug\net6.0\monitoreoService.Core.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.csproj.AssemblyReference.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.AssemblyInfoInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.AssemblyInfo.cs
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\refint\monitoreoService.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\ref\monitoreoService.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\bin\Debug\net6.0\monitoreo.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\bin\Debug\net6.0\monitoreo.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\monitoreoService.Core\obj\Debug\net6.0\monitoreoService.Core.csproj.CopyComplete

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/UsuarioService/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" />
+  <xs:import schemaLocation="http://localhost:8733/UsuarioService/?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" />
+  <xs:element name="Consultar">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ConsultarResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" minOccurs="0" name="ConsultarResult" nillable="true" type="q1:BusinessResultadoOfArrayOfUsuarioDtoCOpr4HTC" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerUsuarioPorId">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="id" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerUsuarioPorIdResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" minOccurs="0" name="ObtenerUsuarioPorIdResult" nillable="true" type="q2:BusinessResultadoOfUsuarioDtoCOpr4HTC" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Guardar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" minOccurs="0" name="usuarioDto" nillable="true" type="q3:UsuarioDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GuardarResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" minOccurs="0" name="GuardarResult" nillable="true" type="q4:BusinessResultadoOfint" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Actualizar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Dtos" minOccurs="0" name="usuarioDto" nillable="true" type="q5:UsuarioDto" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ActualizarResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" minOccurs="0" name="ActualizarResult" nillable="true" type="q6:BusinessResultadoOfint" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Eliminar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="id" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EliminarResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/WcfServiceUsuario.Common" minOccurs="0" name="EliminarResult" nillable="true" type="q7:BusinessResultadoOfint" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

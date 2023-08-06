@@ -1,0 +1,15 @@
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\bin\Debug\net6.0\ConnectionStringEncryptionConsoleApp.exe
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\bin\Debug\net6.0\ConnectionStringEncryptionConsoleApp.deps.json
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\bin\Debug\net6.0\ConnectionStringEncryptionConsoleApp.runtimeconfig.json
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\bin\Debug\net6.0\ConnectionStringEncryptionConsoleApp.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\bin\Debug\net6.0\ConnectionStringEncryptionConsoleApp.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.AssemblyInfo.cs
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\refint\ConnectionStringEncryptionConsoleApp.dll
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ConnectionStringEncryptionConsoleApp.genruntimeconfig.cache
+C:\Users\rvt_r\Documents\Visual Studio 2019\DigitalBankPrueba\ConnectionStringEncryptionConsoleApp\obj\Debug\net6.0\ref\ConnectionStringEncryptionConsoleApp.dll
